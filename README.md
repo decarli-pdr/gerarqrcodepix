@@ -1,6 +1,5 @@
 
-![Gerar Qrode Pix](https://gerarqrcodepix.com.br/site_1.jpg)
-
+![Gerar Qrode Pix]
 # Introdução
 
 Qualquer pessoa que possui uma chave Pix cadastrada pode criar um QrCode válido e receber valores por ele.
